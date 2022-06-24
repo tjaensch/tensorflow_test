@@ -1,0 +1,7 @@
+make --dry-run --always-make --keep-going --print-directory
+make: Entering directory `/Users/jaenscht/Desktop/tensorflow_test'
+ 
+make: Leaving directory `/Users/jaenscht/Desktop/tensorflow_test'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
